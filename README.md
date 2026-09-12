@@ -4,6 +4,11 @@ An AI-powered employee database assistant built with **Oracle PL/SQL, Python, La
 
 The application allows users to ask employee-related questions in natural language. A local Llama 3.2 model identifies the required database operation, Python validates the operation, and Oracle PL/SQL executes the controlled database logic.
 
+## Demo
+
+The assistant accepts a natural-language question, routes it to a controlled database operation, retrieves the result from Oracle, and then converts that result into a short natural-language answer.
+
+
 ## Why I Built This
 
 I wanted to build something that combined the database skills I already had with practical AI concepts.
