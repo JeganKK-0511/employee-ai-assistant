@@ -207,6 +207,21 @@ Possible future enhancements include:
 - Add structured AI outputs
 - Add automated tests
 - Add a simple web interface
+
+## What I Learned
+
+While building this project, I worked with:
+
+* Calling Oracle stored procedures from Python
+* Reading `DBMS_OUTPUT` from Python
+* Connecting Python applications to Oracle using `oracledb`
+* Using Ollama to run an LLM locally
+* Creating a simple routing workflow with LangChain
+* Validating AI-generated operations before executing them
+* Passing database results back to an LLM for a natural-language response
+* Managing database credentials with environment variables
+* Structuring a small project for GitHub
+
 - Add logging and monitoring
 
 ## Author
